@@ -1,0 +1,63 @@
+-- One flashcard per saved sentence. Times are Unix epoch milliseconds (UTC).
+CREATE TABLE card (
+    id TEXT NOT NULL PRIMARY KEY,
+    sentence_id TEXT NOT NULL,
+    phase TEXT NOT NULL,
+    step INTEGER NOT NULL,
+    stability REAL,
+    difficulty REAL,
+    due_ms INTEGER NOT NULL,
+    last_review_ms INTEGER,
+    reps INTEGER NOT NULL,
+    lapses INTEGER NOT NULL,
+    created_ms INTEGER NOT NULL
+);
+
+CREATE INDEX card_due_idx ON card(due_ms);
+CREATE INDEX card_sentence_idx ON card(sentence_id);
+
+-- Every answer ever given; needed later to personalise FSRS parameters and draw statistics.
+CREATE TABLE review_log (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    card_id TEXT NOT NULL REFERENCES card(id),
+    rating INTEGER NOT NULL,
+    reviewed_ms INTEGER NOT NULL,
+    elapsed_days INTEGER NOT NULL,
+    interval_ms INTEGER NOT NULL
+);
+
+CREATE INDEX review_log_time_idx ON review_log(reviewed_ms);
+
+insertCard:
+INSERT INTO card(id, sentence_id, phase, step, stability, difficulty, due_ms, last_review_ms, reps, lapses, created_ms)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+
+updateSchedule:
+UPDATE card
+SET phase = ?, step = ?, stability = ?, difficulty = ?, due_ms = ?, last_review_ms = ?, reps = ?, lapses = ?
+WHERE id = ?;
+
+insertReview:
+INSERT INTO review_log(card_id, rating, reviewed_ms, elapsed_days, interval_ms)
+VALUES (?, ?, ?, ?, ?);
+
+selectDue:
+SELECT * FROM card WHERE due_ms <= ? ORDER BY due_ms ASC;
+
+selectSentenceIds:
+SELECT sentence_id FROM card;
+
+countForSentence:
+SELECT COUNT(*) FROM card WHERE sentence_id = ?;
+
+countAll:
+SELECT COUNT(*) FROM card;
+
+countDue:
+SELECT COUNT(*) FROM card WHERE due_ms <= ?;
+
+countNew:
+SELECT COUNT(*) FROM card WHERE phase = 'New';
+
+countReviewsSince:
+SELECT COUNT(*) FROM review_log WHERE reviewed_ms >= ?;
