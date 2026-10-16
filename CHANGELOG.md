@@ -14,6 +14,22 @@ The four quality goals are tackled in order, grouped into two beta phases:
 
 ---
 
+## [Unreleased]
+
+### Added
+- **Tutor docs** (`docs/tutor/`): notes from the first chat tutor session, a retrospective of it, the learner profile,
+  and a draft **harness spec** for the app's tutor (learner model, cache-friendly prompt, turn schema with
+  per-fragment corrections, deterministic vocabulary validator, correction-card UI, evals).
+- **`CLAUDE.md`** and a project **`/tutor` skill** (`.claude/skills/tutor/`) so chat sessions start with the learner's
+  level, vocabulary and format, and save notes at the end.
+
+### Decisions
+- The chat tutor is the prototype of the app tutor: rules that work there move into the app's prompt and validator.
+- Lesson from the first session: the tutor's main failures were missing context and pacing, not model ability. The
+  harness, not the model, is where to fix them.
+
+---
+
 ## [0.2.0] — 2026-10-15 — AI tutor (Beta 1, functionality)
 
 ### Added

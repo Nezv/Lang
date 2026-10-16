@@ -3,6 +3,8 @@
 ## Beta 1 — Functionality, then Reliability
 - [ ] Review both GUIs (screenshots in `docs/screenshots/`) and collect feedback
 - [ ] AI tutor: try it with a real key in every scenario and tune the prompt; more scenarios
+- [ ] Tutor harness (`docs/tutor/harness-spec.md`): A. Anki import + known vocabulary + profile · B. turn schema,
+      prompt and validator · C. correction card, hints, words panel · D. memory, session summary, modes · E. evals
 - [ ] Voice: speech-to-text for the tutor; good Chinese TTS on Windows (no voice installed by default)
 - [ ] Content: JSON content packs, more HSK 1–3 lessons, audio files, listening/typing exercises
 - [ ] Flashcards: card types (listening, reading, production), Anki `.apkg` import, interval fuzz, daily limits
