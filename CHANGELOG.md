@@ -27,6 +27,10 @@ The four quality goals are tackled in order, grouped into two beta phases:
 - The chat tutor is the prototype of the app tutor: rules that work there move into the app's prompt and validator.
 - Lesson from the first session: the tutor's main failures were missing context and pacing, not model ability. The
   harness, not the model, is where to fix them.
+- The `/tutor` skill reads the known vocabulary from the Anki project next to this repo (`../Anki/practice/vocab.md`,
+  Immersive Chinese lessons 1–79, and `focus.md`, Anki's struggling/due words) instead of a copy here. This repo is
+  public, and the word list is course content. Chat sessions run on the owner's Claude subscription, with no API key.
+- The skill commits session notes but no longer pushes them: they hold personal facts, and the repo is public.
 
 ---
 

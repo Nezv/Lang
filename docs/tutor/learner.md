@@ -6,8 +6,8 @@ Read by the `/tutor` skill at the start of every chat session; updated at the en
 
 - Course: **Immersive Chinese, lesson 80** (beginner).
 - Estimate (2026-10-16): production around HSK 1 with some HSK 2 structures; reads well with pinyin and English.
-- Known vocabulary: **not imported yet**. Expected at `content/vocab/known.tsv` (Anki › File › Export › Notes in
-  Plain Text). Until then, stay with very common HSK 1 words and the words in the session notes.
+- Known vocabulary: `../Anki/practice/vocab.md` (Immersive Chinese, lessons 1–79, 438 entries) and Anki's focus
+  words in `../Anki/practice/focus.md`. Both live in the Anki project on the owner's PC, outside this public repo.
 
 ## Preferences
 
