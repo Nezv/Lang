@@ -44,3 +44,39 @@ Read by the `/tutor` skill at the start of every chat session; updated at the en
 ## Sessions
 
 - [2026-10-16](sessions/2026-10-16.md) · [retrospective](retrospective-2026-10-16.md)
+
+# Japanese
+
+Same format and rules as Chinese, with romaji in place of pinyin. Sessions are named `YYYY-MM-DD-japanese.md`.
+
+## Level
+
+- Studied Japanese before; no course or word list. Estimate (2026-10-22): around JLPT N5, attempts some N4 grammar.
+- Reads kana and common kanji; types with a kana IME.
+
+## Preferences
+
+- **Don't ask about something the learner has just said.** Re-read their sentence before a yes/no check.
+
+## More conversation topics
+
+- Would go to Tokyo: eat anything at the first place they walk into, have drinks, walk around town.
+- Has only had Japanese food in Brazil; doesn't eat Brazilian yakisoba much.
+- Makes burgers about twice a week and eats them alone.
+- Drinks two Monster Mango Loco a day, up to about 7 pm; sleeps fine.
+- Bed at 10 pm on weekdays, midnight on weekends; plays Mobile Legends with their girlfriend.
+
+## Error patterns (most frequent first)
+
+1. **Wrong kanji from the IME:** 人本二/日本に, 尾/を, 浸かります/作ります, 見ます/飲みます
+2. Mixing forms: 書けたです, 作りますのか, 遅くじゃない, 観ているのために
+3. Particles: 市で歩く (を), 二本に飲みます, 私と彼女をゲームをして
+4. Word choice: ある/行く, 信じる/思う, 自分で/一人で, ハンバーグ/ハンバーガー, 午後12時 for midnight
+
+## Open question from last session
+
+一番好きなヒーローはだれですか。(Ichiban suki na hīrō wa dare desu ka.) Who's your favourite hero?
+
+## Sessions
+
+- [2026-10-22](sessions/2026-10-22-japanese.md)
