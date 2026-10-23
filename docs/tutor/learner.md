@@ -22,27 +22,38 @@ Read by the `/tutor` skill at the start of every chat session; updated at the en
 - Often forgets to buy milk.
 - Weekends: plays MLBB with their girlfriend (almost every day), makes burgers (200 g beef, cheddar, bacon, soy-sauce
   onions), programs with AI.
-- Studied Japanese before; used to want to go to Japan (anime, wanted to study at a Japanese university).
+- Studied Japanese before; used to want to go to Japan (anime, wanted to study at a Japanese university). Still likes
+  Japan, but has no money to go now.
+- Still a university student; does an internship at Nidec. Colleagues "OK"; eats lunch with them at 11:00 in the
+  company restaurant.
+- Likes Anna German and Frank Sinatra; listens to music less since dating and working; studies Chinese on the bus
+  to work (Immersive Chinese and Claude Code on the phone).
+- Programs this Chinese app (Android and Windows) with AI; AI programming is fun; makes apps, mods, documents and
+  3D models with AI (3D models are the favourite). Not selling the app.
 
 ## Error patterns (most frequent first)
 
-1. **Wrong character from the pinyin keyboard:** 查/茶, 并/冰, 旺季/忘记, 白/百, 日月/日语, 香曲/想去(?)
-2. Word order of time, place and companion phrases: 在…的时候, 和…一起, 带…到
-3. Quantity after the verb: 喝很多咖啡
+1. **Wrong character from the pinyin keyboard:** 查/茶, 并/冰, 旺季/忘记, 白/百, 日月/日语, 香曲/想去(?), 快/钱,
+   挺/听, 帮衬 and 比昂辰 for 编程. When a sentence is unclear, try the pinyin first.
+2. Word order of time, place and companion phrases: 在…的时候, 和…一起, 带…到, 上班的时候在公交车上学习
+3. Quantity after the verb: 喝很多咖啡, 买很多东西
 4. Missing 很 before adjectives; 的 after 自己
 5. 二 vs 两; 和 between every list item; 还是 in statements
 6. Verb choice: 好吃/好喝, 记得/觉得, 做 as a filler verb; 想了 for "wanted"
+7. 的 after a bare time word (十一点的); 和 joining two clauses
+8. Switches to English for unknown words (still, OK, restaurant, internship): give the Chinese, no lesson
 
 ## Seen once, not yet learned
 
-牛奶, 口味, 有点, 克, 带, 速溶, 冰, 忘记, 日语, 女孩, 以前, 夏天, 双排, 之类的
+牛奶, 口味, 有点, 克, 带, 速溶, 冰, 忘记, 日语, 女孩, 以前, 夏天, 双排, 之类的, 实习, 别的, 有没有, 编程, 好玩儿, 约会
 
 ## Open question from last session
 
-你现在还想去日本吗?(Nǐ xiànzài hái xiǎng qù Rìběn ma?) Do you still want to go to Japan now?
+你用3D模型做什么?(Nǐ yòng 3D móxíng zuò shénme?) What do you do with 3D models?
 
 ## Sessions
 
+- [2026-10-21](sessions/2026-10-21.md)
 - [2026-10-16](sessions/2026-10-16.md) · [retrospective](retrospective-2026-10-16.md)
 
 # Japanese
