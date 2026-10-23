@@ -1,7 +1,7 @@
 # Tutor session retrospective: 2026-10-16
 
 The first chat-based tutor session ran in Claude Code (cloud). Claude Sonnet 5.5 was the tutor, with about 22 learner
-messages in roughly an hour. The full notes are in [sessions/2026-10-16.md](sessions/2026-10-16.md). This review covers
+messages in roughly an hour. The full notes are in [conversations/2026-10-16-chinese.md](conversations/2026-10-16-chinese.md). This review covers
 what to keep, what went wrong, and what the app's tutor harness must do better
 ([harness-spec.md](harness-spec.md)).
 
@@ -92,7 +92,7 @@ belongs to its publisher.
 
 | Lesson | Process fix (Claude Code, done now) | App fix (harness spec) |
 |---|---|---|
-| No context at start | `CLAUDE.md` + `/tutor` skill + `docs/tutor/learner.md` | Learner profile and known-vocabulary store in the DB |
+| No context at start | `CLAUDE.md` + `/tutor` skill + learner profile (now `Tutor.md`, `Memory.md`, `Vocab.md`) | Learner profile and known-vocabulary store in the DB |
 | Too many new words | Skill rule: new-word budget, default 0 | Budget field + deterministic vocabulary validator |
 | Connective treadmill | Skill rule: at most one new pattern per session, then recycle | Session goal = one target pattern + due words |
 | Chinese explanations | Skill rule: explanations in one English line | `note` field is English, length-capped |

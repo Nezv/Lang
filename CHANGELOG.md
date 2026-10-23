@@ -22,8 +22,13 @@ The four quality goals are tackled in order, grouped into two beta phases:
   per-fragment corrections, deterministic vocabulary validator, correction-card UI, evals).
 - **`CLAUDE.md`** and a project **`/tutor` skill** (`.claude/skills/tutor/`) so chat sessions start with the learner's
   level, vocabulary and format, and save notes at the end.
-- The `/tutor` skill also runs **Japanese** chat sessions (`/tutor ja`): Japanese, romaji and English in each cell,
-  notes in `docs/tutor/sessions/YYYY-MM-DD-japanese.md`. The app itself stays Chinese-only.
+- The `/tutor` skill also runs **Japanese** chat sessions (`/tutor ja`): Japanese, romaji and English in each cell.
+  The app itself stays Chinese-only.
+- **Tutor files** (`docs/tutor/`), replacing `learner.md` and `sessions/`: `Tutor.md` (method, language levels, error
+  patterns, next question), `Memory.md` (facts about the learner, topics covered, topic ideas), `Vocab.md` (words
+  from the conversations, with maturity) and `conversations/YYYY-MM-DD-<language>.md`, one file per session.
+- **Language levels** in `Tutor.md`, assessed from the conversation notes on 2026-10-23: Chinese A1 (HSK 1 when
+  writing), Japanese high A1 (JLPT N5, trying N4 grammar).
 
 ### Decisions
 - The chat tutor is the prototype of the app tutor: rules that work there move into the app's prompt and validator.
@@ -33,13 +38,21 @@ The four quality goals are tackled in order, grouped into two beta phases:
   Immersive Chinese lessons 1–79, and `focus.md`, Anki's struggling/due words) instead of a copy here. This repo is
   public, and the word list is course content. Chat sessions run on the owner's Claude subscription, with no API key.
 - The skill commits session notes but no longer pushes them: they hold personal facts, and the repo is public.
-- One `/tutor` skill and one learner profile for both languages. Preferences and personal facts are shared (a fact
-  told in Chinese is a topic in Japanese too); level, error patterns, words and the open question are kept per
-  language. A table in the skill holds what differs: reading line, notes file, word source, typing slips.
-- Japanese has no word list (no Anki deck), so its tutor rows stay with common JLPT N5 words and recycle the profile's
-  Japanese "seen once" words.
-- New rule from the 2026-10-21 and 2026-10-22 sessions, where the tutor asked again for what the learner had just
-  said: never ask for something the learner has already told the tutor. It is in the skill and the harness spec.
+- One `/tutor` skill and one set of tutor files for both languages. `Memory.md` is shared (a fact told in Chinese is
+  a topic in Japanese too); levels, error patterns, words and the next question are kept per language. A table in
+  `Tutor.md` holds what differs: reading line, word source, typing slips.
+- The method lives in `Tutor.md`, not in the skill: the owner reads and changes how the tutor works in one place. The
+  skill only picks the language and points there.
+- `Vocab.md` holds only words from the conversations. The Immersive Chinese list stays in Anki (the repo is public and
+  the list is course content), and Anki keeps those words' maturity. Conversation words get a three-step maturity
+  counted from use: 🌱 seen (given by the tutor), 🌿 used (written by the learner at least once, typing slips
+  included), 🌳 known (used right without help in two sessions). A word needed again drops back to 🌱.
+- Levels are CEFR with the HSK or JLPT equivalent, so both languages share one scale.
+- Japanese has no word list (no Anki deck), so its tutor rows stay with common JLPT N5 words and recycle its words in
+  `Vocab.md`.
+- New rule from the 2026-10-21 and 2026-10-22 sessions, where the tutor asked again for what the learner had already
+  said: never ask for something the learner has already told the tutor, and skip the next session's question when
+  `Memory.md` already answers it. It is in `Tutor.md` and the harness spec.
 
 ---
 
