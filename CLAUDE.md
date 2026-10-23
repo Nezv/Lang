@@ -14,6 +14,6 @@ and `TODO.md` (plan).
 
 ## Tutor sessions in chat
 
-When the owner asks for a Chinese tutor session, use the `/tutor` skill (`.claude/skills/tutor/SKILL.md`). The
+When the owner asks for a Chinese or Japanese tutor session, use the `/tutor` skill (`.claude/skills/tutor/SKILL.md`). The
 learner profile is `docs/tutor/learner.md`; session notes are in `docs/tutor/sessions/`. What the chat sessions teach
 us feeds the app's tutor design: `docs/tutor/harness-spec.md`.

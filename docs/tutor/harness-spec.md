@@ -72,6 +72,7 @@ Rules in the system prompt (from the retrospective):
 - Words the learner wrote in English go into `gaps`. Don't teach them mid-sentence.
 - When the learner's word is a homophone of the intended one (same or similar pinyin), use the tag `ime_homophone`.
 - If unsure what the learner meant, use `clarify` rather than guessing silently.
+- Never ask for something the learner has already told the tutor, this session or in `facts`. Build on it instead.
 
 ## 4. Validator (deterministic, in `shared`)
 

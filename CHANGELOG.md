@@ -22,6 +22,8 @@ The four quality goals are tackled in order, grouped into two beta phases:
   per-fragment corrections, deterministic vocabulary validator, correction-card UI, evals).
 - **`CLAUDE.md`** and a project **`/tutor` skill** (`.claude/skills/tutor/`) so chat sessions start with the learner's
   level, vocabulary and format, and save notes at the end.
+- The `/tutor` skill also runs **Japanese** chat sessions (`/tutor ja`): Japanese, romaji and English in each cell,
+  notes in `docs/tutor/sessions/YYYY-MM-DD-japanese.md`. The app itself stays Chinese-only.
 
 ### Decisions
 - The chat tutor is the prototype of the app tutor: rules that work there move into the app's prompt and validator.
@@ -31,6 +33,13 @@ The four quality goals are tackled in order, grouped into two beta phases:
   Immersive Chinese lessons 1–79, and `focus.md`, Anki's struggling/due words) instead of a copy here. This repo is
   public, and the word list is course content. Chat sessions run on the owner's Claude subscription, with no API key.
 - The skill commits session notes but no longer pushes them: they hold personal facts, and the repo is public.
+- One `/tutor` skill and one learner profile for both languages. Preferences and personal facts are shared (a fact
+  told in Chinese is a topic in Japanese too); level, error patterns, words and the open question are kept per
+  language. A table in the skill holds what differs: reading line, notes file, word source, typing slips.
+- Japanese has no word list (no Anki deck), so its tutor rows stay with common JLPT N5 words and recycle the profile's
+  Japanese "seen once" words.
+- New rule from the 2026-10-21 and 2026-10-22 sessions, where the tutor asked again for what the learner had just
+  said: never ask for something the learner has already told the tutor. It is in the skill and the harness spec.
 
 ---
 

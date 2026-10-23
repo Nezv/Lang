@@ -1,6 +1,34 @@
 # Learner profile
 
-Read by the `/tutor` skill at the start of every chat session; updated at the end of each session.
+Read by the `/tutor` skill at the start of every chat session; updated at the end of each session. The first part is
+shared by both languages; each language then has its own section (`# Chinese`, `# Japanese`).
+
+## Preferences
+
+- **No new words** unless the learner asks. At most one new grammar pattern per session.
+- One question per turn. No "why" sections; explanations, if any, in one line of English.
+- **Don't ask for something the learner has already said.** Re-read their message before a yes/no check.
+- Format: see the `/tutor` skill (emoji column; script, reading and English stacked in one cell).
+
+## About the learner (conversation topics)
+
+- Drinks tea at the office (the office sells fruit teas; likes apple flavour) and coffee at home.
+- Makes coffee with 200 ml milk, 1 tbsp instant coffee and 1 tbsp sugar, no water; prefers it hot, even in summer.
+- Often forgets to buy milk.
+- Drinks two Monster Mango Loco a day, up to about 7 pm; sleeps fine. Bed at 10 pm on weekdays, midnight on weekends.
+- Weekends: plays MLBB (Mobile Legends) with their girlfriend (almost every day), makes burgers (about twice a week,
+  eats them alone; 200 g beef, cheddar, bacon, soy-sauce onions), programs with AI.
+- Studied Japanese before; used to want to go to Japan (anime, wanted to study at a Japanese university). Still likes
+  Japan, but has no money to go now. In Tokyo would eat anything at the first place they walk into, have drinks and
+  walk around town. Has only had Japanese food in Brazil; doesn't eat Brazilian yakisoba much.
+- Still a university student; does an internship at Nidec. Colleagues "OK"; eats lunch with them at 11:00 in the
+  company restaurant.
+- Likes Anna German and Frank Sinatra; listens to music less since dating and working; studies Chinese on the bus
+  to work (Immersive Chinese and Claude Code on the phone).
+- Programs this Chinese app (Android and Windows) with AI; AI programming is fun; makes apps, mods, documents and
+  3D models with AI (3D models are the favourite). Not selling the app.
+
+# Chinese
 
 ## Level
 
@@ -8,28 +36,6 @@ Read by the `/tutor` skill at the start of every chat session; updated at the en
 - Estimate (2026-10-16): production around HSK 1 with some HSK 2 structures; reads well with pinyin and English.
 - Known vocabulary: `../Anki/practice/vocab.md` (Immersive Chinese, lessons 1–79, 438 entries) and Anki's focus
   words in `../Anki/practice/focus.md`. Both live in the Anki project on the owner's PC, outside this public repo.
-
-## Preferences
-
-- **No new words** unless the learner asks. At most one new grammar pattern per session.
-- One question per turn. No "why" sections; explanations, if any, in one line of English.
-- Format: see the `/tutor` skill (emoji column; hanzi, pinyin, English stacked in one cell).
-
-## About the learner (conversation topics)
-
-- Drinks tea at the office (the office sells fruit teas; likes apple flavour) and coffee at home.
-- Makes coffee with 200 ml milk, 1 tbsp instant coffee and 1 tbsp sugar, no water; prefers it hot, even in summer.
-- Often forgets to buy milk.
-- Weekends: plays MLBB with their girlfriend (almost every day), makes burgers (200 g beef, cheddar, bacon, soy-sauce
-  onions), programs with AI.
-- Studied Japanese before; used to want to go to Japan (anime, wanted to study at a Japanese university). Still likes
-  Japan, but has no money to go now.
-- Still a university student; does an internship at Nidec. Colleagues "OK"; eats lunch with them at 11:00 in the
-  company restaurant.
-- Likes Anna German and Frank Sinatra; listens to music less since dating and working; studies Chinese on the bus
-  to work (Immersive Chinese and Claude Code on the phone).
-- Programs this Chinese app (Android and Windows) with AI; AI programming is fun; makes apps, mods, documents and
-  3D models with AI (3D models are the favourite). Not selling the app.
 
 ## Error patterns (most frequent first)
 
@@ -58,31 +64,23 @@ Read by the `/tutor` skill at the start of every chat session; updated at the en
 
 # Japanese
 
-Same format and rules as Chinese, with romaji in place of pinyin. Sessions are named `YYYY-MM-DD-japanese.md`.
-
 ## Level
 
 - Studied Japanese before; no course or word list. Estimate (2026-10-22): around JLPT N5, attempts some N4 grammar.
 - Reads kana and common kanji; types with a kana IME.
-
-## Preferences
-
-- **Don't ask about something the learner has just said.** Re-read their sentence before a yes/no check.
-
-## More conversation topics
-
-- Would go to Tokyo: eat anything at the first place they walk into, have drinks, walk around town.
-- Has only had Japanese food in Brazil; doesn't eat Brazilian yakisoba much.
-- Makes burgers about twice a week and eats them alone.
-- Drinks two Monster Mango Loco a day, up to about 7 pm; sleeps fine.
-- Bed at 10 pm on weekdays, midnight on weekends; plays Mobile Legends with their girlfriend.
+- Known words: common JLPT N5 words, plus the "seen once" list below.
 
 ## Error patterns (most frequent first)
 
-1. **Wrong kanji from the IME:** 人本二/日本に, 尾/を, 浸かります/作ります, 見ます/飲みます
+1. **Wrong kanji from the IME:** 人本二/日本に, 尾/を, 浸かります/作ります, 見ます/飲みます. When a sentence is
+   unclear, read it in kana first.
 2. Mixing forms: 書けたです, 作りますのか, 遅くじゃない, 観ているのために
 3. Particles: 市で歩く (を), 二本に飲みます, 私と彼女をゲームをして
 4. Word choice: ある/行く, 信じる/思う, 自分で/一人で, ハンバーグ/ハンバーガー, 午後12時 for midnight
+
+## Seen once, not yet learned
+
+平日, 週末, 午後, 最初, 入る, 何でも, スマホ, 一人で, 町, とにかく
 
 ## Open question from last session
 
