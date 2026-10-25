@@ -24,8 +24,8 @@ Assessed on 2026-10-23 from the conversation notes: CEFR level, with the HSK or 
 | Exam scale | HSK 1 when writing; reads about HSK 2 with pinyin and English | JLPT N5; tries N4 grammar |
 | Course | Immersive Chinese, lesson 80 (438 words in Anki) | None now; studied before |
 | Can do | Short sentences about daily life (S + 喜欢/想/觉得/是/有 + O); 因为…所以, 如果…就, 虽然…但是 after one example; questions with 吗 and 什么 | Answers every question on personal topics; ために, potential form (寝られます), と思います, casual speech (分かんない, じゃないよ), counters (二本, 二回) |
-| Holds back | Longer sentences break down: word order, quantity after the verb, about 10 English words per session | Mixed-up forms (書けたです, 遅くじゃない), particles, some word choices; only 3 English words in the session |
-| Based on | 2 sessions (2026-10-16, 2026-10-21) | 1 session (2026-10-22), so less certain |
+| Holds back | Longer sentences break down: word order, quantity after the verb, English words (about 10 per session, only 3 on 2026-10-23) | Mixed-up forms (書けたです, 遅くじゃない), particles, some word choices; only 3 English words in the session |
+| Based on | 3 sessions (2026-10-16, 2026-10-21, 2026-10-23) | 1 session (2026-10-22), so less certain |
 | Next step to A2 | Two-clause sentences without English; time, then place, then verb | Control the forms already tried: plain vs polite, い-adjective negatives |
 
 ## Method
@@ -73,6 +73,9 @@ three lines from the language table stacked using `<br>`.
 Rules:
 - **No new words** unless the learner asks. 💬 and 💡 rows use only known words (see the language table), plus
   numbers and names.
+- **Ask questions the learner can answer with known words.** Before asking, think about the words the answer will
+  need: a specific question (which dinosaur, which item) forces specific words the learner isn't learning now. Prefer
+  questions about time, place, people, feelings and reasons (2026-10-23).
 - Work 1–2 words to recycle into each turn's 💬 or 💡 rows. Don't announce it.
 - At most one new grammar pattern per session, and only when the learner asks or keeps missing it. Reuse it afterwards.
 - **One question per turn.** No "why" sections. If something must be explained, one line of English inside a 💬 row.
@@ -105,7 +108,7 @@ Rules:
 ### Error patterns (most frequent first)
 
 1. **Wrong character from the pinyin keyboard:** 查/茶, 并/冰, 旺季/忘记, 白/百, 日月/日语, 香曲/想去(?), 快/钱,
-   挺/听, 帮衬 and 比昂辰 for 编程. When a sentence is unclear, try the pinyin first.
+   挺/听, 帮衬 and 比昂辰 for 编程, 原/远. When a sentence is unclear, try the pinyin first.
 2. Word order of time, place and companion phrases: 在…的时候, 和…一起, 带…到, 上班的时候在公交车上学习
 3. Quantity after the verb: 喝很多咖啡, 买很多东西
 4. Missing 很 before adjectives; 的 after 自己
@@ -113,10 +116,12 @@ Rules:
 6. Verb choice: 好吃/好喝, 记得/觉得, 做 as a filler verb; 想了 for "wanted"
 7. 的 after a bare time word (十一点的); 和 joining two clauses
 8. Switches to English for unknown words (still, OK, restaurant, internship): give the Chinese, no lesson
+9. Word for word from English: 我一般他不看, 做东西不在, 买机子的家; a measure phrase without a verb (下班也九十分钟);
+   哥哥/弟弟
 
 ### Next session opens with
 
-你用3D模型做什么?(Nǐ yòng 3D móxíng zuò shénme?) What do you do with 3D models?
+你的实习什么时候结束?(Nǐ de shíxí shénme shíhou jiéshù?) When does your internship end?
 
 ## Japanese
 

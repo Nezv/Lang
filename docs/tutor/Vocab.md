@@ -37,6 +37,10 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌿 | 队友 | duìyǒu | teammate | 2026-10-16 | |
 | 🌿 | 日语 | Rìyǔ | Japanese (language) | 2026-10-16 | Anki L63; typed 日月 |
 | 🌿 | 约会 | yuēhuì | dating, a date | 2026-10-21 | The learner's own word |
+| 🌿 | 一般 | yìbān | usually | 2026-10-23 | Anki; word order: 我一般看不见他 |
+| 🌿 | 需要 | xūyào | to need, to take (time) | 2026-10-23 | Right; 要 is more common for time |
+| 🌿 | 结束 | jiéshù | to end | 2026-10-23 | Wrote 结束后 (以后 is more common) |
+| 🌿 | 近 | jìn | near, close | 2026-10-23 | Anki; typed 原 for 远 |
 | 🌱 | 连词 | liáncí | conjunction | 2026-10-16 | Wrote "connective particles" |
 | 🌱 | 有点 | yǒudiǎn | a bit | 2026-10-16 | Anki L44; wrote 少贵 for 有点贵 |
 | 🌱 | 毫升 | háoshēng | millilitre | 2026-10-16 | Wrote "ml" |
@@ -51,7 +55,7 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌱 | 女孩 | nǚhái | girl | 2026-10-16 | Wrote 女士 |
 | 🌱 | 动漫 | dòngmàn | anime | 2026-10-16 | Wrote "anime" |
 | 🌱 | 还 | hái | still | 2026-10-21 | Anki L15; wrote "still" |
-| 🌱 | 实习 | shíxí | internship | 2026-10-21 | Wrote "internship" |
+| 🌱 | 实习 | shíxí | internship | 2026-10-21, 2026-10-23 | Wrote "internship" both times |
 | 🌱 | 有没有 | yǒu méiyǒu | whether (there is) | 2026-10-21 | 不知道…有没有意思 |
 | 🌱 | 还可以 | hái kěyǐ | OK, not bad | 2026-10-21 | Anki L47; wrote "OK" |
 | 🌱 | 饭店 | fàndiàn | restaurant | 2026-10-21 | Anki L67; wrote "restaurant" |
@@ -64,6 +68,11 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌱 | 模组 | mózǔ | mods | 2026-10-21 | Wrote "mods" |
 | 🌱 | 文件 | wénjiàn | documents | 2026-10-21 | Wrote "documents" |
 | 🌱 | 模型 | móxíng | (3D) model | 2026-10-21 | Wrote "3D models" |
+| 🌱 | 弟弟 | dìdi | younger brother | 2026-10-23 | Wrote 哥哥 (older brother) with "younger brother" |
+| 🌱 | 九 | jiǔ | nine | 2026-10-23 | Asked "what is 9 in Chinese" |
+| 🌱 | 看不见 | kàn bu jiàn | can't see | 2026-10-23 | Anki has 看见; wrote 我一般他不看 |
+| 🌱 | 房子 | fángzi | house | 2026-10-23 | Wrote 机子的家 |
+| 🌱 | 办法 | bànfǎ | way, option | 2026-10-23 | 没有办法 = nothing I can do |
 
 ## Japanese
 

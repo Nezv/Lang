@@ -21,6 +21,14 @@ questions on it and never asks for these facts again. New facts are added at the
 - Programs this Chinese app (Android and Windows) with AI and finds AI programming fun. Makes apps, mods, documents
   and 3D models with AI; 3D models are the favourite. Not selling the app.
 
+### Family and home
+
+- Family of four: dad, mum, a younger brother (10, still in school) and the learner. The brother's dad is not the
+  learner's dad; they aren't very close and rarely see each other.
+- Still lives with their mum.
+- Away from home from 5 am to 7 pm; the bus to the office takes 90 minutes each way (the office is far).
+- Can't do much about the distance; plans to buy their own house near the office when the internship ends.
+
 ### Free time
 
 - Plays MLBB (Mobile Legends) with their girlfriend almost every day.
@@ -41,8 +49,9 @@ questions on it and never asks for these facts again. New facts are added at the
 | 2026-10-16 | Chinese | Coffee and tea at the office and at home, weekends, MLBB, burgers, Chinese being hard, wanting to go to Japan |
 | 2026-10-21 | Chinese | Japan and money, internship and colleagues, lunch, music, studying on the bus, this app, AI projects |
 | 2026-10-22 | Japanese | Going to Japan (asked again: already answered on 2026-10-21), Tokyo, Japanese food, burgers, Monster, bedtimes, Mobile Legends |
+| 2026-10-23 | Chinese | Family, younger brother, living with mum, 90-minute bus commute, buying a house near the office |
 
 ## Topic ideas (not covered yet)
 
-Family, home town, what they study at university, favourite anime or series, cooking besides burgers, the 3D models
-they make.
+Home town, what they study at university, favourite anime or series, cooking besides burgers, the 3D models they make
+(planned for 2026-10-23, skipped), when the internship ends.
