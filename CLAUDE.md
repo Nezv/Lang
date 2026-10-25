@@ -6,7 +6,10 @@ files. The Kotlin Multiplatform app that used to live here was dropped on 2026-1
 ## Tutor sessions in chat
 
 When the owner asks for a Chinese or Japanese tutor session, use the `/tutor` skill (`.claude/skills/tutor/SKILL.md`).
-The tutor files are in `docs/tutor/`: `Tutor.md` (method, levels, error patterns), `Memory.md` (facts about the
-learner), `Vocab.md` (words with maturity) and `conversations/` (one file per session).
+It follows `Tutor.md`, which describes every file and folder.
+
+## Writing in this repo
+
+Keep it plain: short sentences, few headers, little bold. Lists and tables only where they carry real structure.
 
 The repo is public: commit session notes, but don't push unless the owner asks.

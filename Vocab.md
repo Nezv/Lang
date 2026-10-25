@@ -7,6 +7,9 @@ The Immersive Chinese word list (lessons 1–79) stays in Anki, in `../Anki/prac
 the list is course content. Anki tracks the maturity of those words itself. "Anki L44" below marks a course word that
 came up in a conversation.
 
+Words from the learner's diaries (`conversations/chinese/*-diary.md`) are not listed: the learner may have looked
+them up while writing. A diary word comes in only when the learner uses it in a session.
+
 ## Maturity
 
 | | Level | Meaning | Moves up when |
