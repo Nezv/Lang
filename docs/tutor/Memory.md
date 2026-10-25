@@ -20,6 +20,8 @@ questions on it and never asks for these facts again. New facts are added at the
 - Studies Chinese on the bus to work (Immersive Chinese, and Claude Code on the phone).
 - Programs this Chinese app (Android and Windows) with AI and finds AI programming fun. Makes apps, mods, documents
   and 3D models with AI; 3D models are the favourite. Not selling the app.
+- Uses Claude on the phone any time: on the bus, at lunch, after cooking. The computer stays at home and the phone
+  reaches it remotely (Claude Code). Says they don't really program, they ask Claude.
 
 ### Family and home
 
@@ -34,6 +36,8 @@ questions on it and never asks for these facts again. New facts are added at the
 - Plays MLBB (Mobile Legends) with their girlfriend almost every day.
 - Makes burgers about twice a week and eats them alone: 200 g beef, cheddar, bacon, soy-sauce onions.
 - Likes Anna German and Frank Sinatra; listens to music less since dating and working.
+- Makes a Minecraft mod with 3D models: 40 dinosaur models, item models and a tech (progression) tree. Favourite
+  dinosaur: the velociraptor, "a classic".
 
 ### Japan
 
@@ -50,8 +54,9 @@ questions on it and never asks for these facts again. New facts are added at the
 | 2026-10-21 | Chinese | Japan and money, internship and colleagues, lunch, music, studying on the bus, this app, AI projects |
 | 2026-10-22 | Japanese | Going to Japan (asked again: already answered on 2026-10-21), Tokyo, Japanese food, burgers, Monster, bedtimes, Mobile Legends |
 | 2026-10-23 | Chinese | Family, younger brother, living with mum, 90-minute bus commute, buying a house near the office |
+| 2026-10-23 | Chinese | The Minecraft mod and its 3D models, favourite dinosaur, Claude on the phone any time and from a distance, 之类的/等等/就像那样 (on request) |
 
 ## Topic ideas (not covered yet)
 
-Home town, what they study at university, favourite anime or series, cooking besides burgers, the 3D models they make
-(planned for 2026-10-23, skipped), when the internship ends.
+Home town, what they study at university, favourite anime or series, cooking besides burgers, when the internship ends,
+what they do at home (asked on 2026-10-23, not answered yet).

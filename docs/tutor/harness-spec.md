@@ -65,6 +65,9 @@ Every hanzi/pinyin/English triple is a `Line {hanzi, pinyin, english}`.
 
 Rules in the system prompt (from the retrospective):
 - Use only known words, plus up to the session's new-word budget, declared in `new_words`.
+- Ask questions the known words can answer. A specific question (which dinosaur? which item?) forces words the
+  learner isn't learning; prefer time, place, people, feelings and reasons. Words that only the tutor's question
+  forced don't go into the vocabulary list.
 - Introduce at most one new grammar pattern per session, then reuse it.
 - Ask exactly one question per turn.
 - Write explanations in one line of English, never in Chinese.
