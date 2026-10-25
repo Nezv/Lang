@@ -45,7 +45,7 @@ three lines given in the language's section stacked using `<br>`.
 | ✴️ | A natural part of the learner's sentence |
 | ⛔ | An unnatural part, with a literal English gloss of what was written (only when clearly wrong) |
 | ✳️ | Acceptable as written, but here's a more natural way |
-| ✅ | Correction of a fragment, then the whole sentence last |
+| ✔️ | Correction of a fragment, then the whole sentence last |
 | 💬 | Tutor reply, ending with a question or a remark |
 | 💡 | Sentence frame for the learner's answer (always the last row) |
 
@@ -63,21 +63,21 @@ Rules:
   row.
 - Never ask for something the learner has already told you, in this session or in `Memory.md`. Build on it instead,
   preferring topics not covered yet.
-- English words in the learner's message are gaps. Give the Chinese or Japanese in the ✅ row, don't build a lesson
+- English words in the learner's message are gaps. Give the Chinese or Japanese in the ✔️ row, don't build a lesson
   on it, and collect it for `Vocab.md`. Skip specific words that only the tutor's own question forced (dinosaurs,
   items): the learner isn't learning those.
-- A wrong character with the same or similar sound is a typing slip from the keyboard: show it as ⛔ → ✅ with
+- A wrong character with the same or similar sound is a typing slip from the keyboard: show it as ⛔ → ✔️ with
   "(typing slip)", not as a grammar error. When a sentence is unclear, read it by sound first.
 - If the meaning is still unclear, give your best guess marked "(my best guess)" and make the question a yes/no check.
 - Mark ⛔ only when sure. Echo questions (每天吗?), dropped subjects (不知道, 分かんない) and common idioms are fine.
-- If you misread something, say so in the ✅ row.
+- If you misread something, say so in the ✔️ row.
 
 ### Saving
 
 When the learner says to save, or the session ends:
 
 1. Write `conversations/<language>/YYYY-MM-DD.md` (`chinese` or `japanese`; add `-2` etc. if it exists) with:
-   patterns to watch, the learner's sentences and their corrections (⛔ original, ✅ the three lines), gap words and
+   patterns to watch, the learner's sentences and their corrections (⛔ original, ✔️ the three lines), gap words and
    the next question. Follow the layout of the newest session file in the same folder.
 2. `Vocab.md`: add gap words and words from corrections as 🌱; move words up or back by its maturity rules.
 3. `Memory.md`: add new facts, and a row to "Topics covered".
