@@ -18,8 +18,9 @@ questions on it and never asks for these facts again. New facts are added at the
 - University student; does an internship at Nidec. Colleagues are "OK"; eats lunch with them at 11:00 in the
   company restaurant.
 - Studies Chinese on the bus to work (Immersive Chinese, and Claude Code on the phone).
-- Programs this Chinese app (Android and Windows) with AI and finds AI programming fun. Makes apps, mods, documents
-  and 3D models with AI; 3D models are the favourite. Not selling the app.
+- Programmed a Chinese app (Android and Windows) with AI and finds AI programming fun; dropped it on 2026-10-25 and
+  uses the Claude app for tutoring instead. Makes apps, mods, documents and 3D models with AI; 3D models are the
+  favourite.
 - Uses Claude on the phone any time: on the bus, at lunch, after cooking. The computer stays at home and the phone
   reaches it remotely (Claude Code). Says they don't really program, they ask Claude.
 

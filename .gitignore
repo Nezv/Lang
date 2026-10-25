@@ -1,24 +1,7 @@
-# Gradle / build output
-.gradle/
-.kotlin/
-build/
-*/build/
-!gradle/wrapper/gradle-wrapper.jar
-
-# Machine-specific
-local.properties
-*.iml
-.idea/
-.vscode/
-captures/
-.externalNativeBuild/
-.cxx/
-
 # OS
 .DS_Store
 Thumbs.db
 
-# Secrets (API keys must never be committed)
-*.keystore
-*.jks
-secrets.properties
+# Editors
+.idea/
+.vscode/

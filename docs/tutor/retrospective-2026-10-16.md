@@ -2,8 +2,8 @@
 
 The first chat-based tutor session ran in Claude Code (cloud). Claude Sonnet 5.5 was the tutor, with about 22 learner
 messages in roughly an hour. The full notes are in [conversations/2026-10-16-chinese.md](conversations/2026-10-16-chinese.md). This review covers
-what to keep, what went wrong, and what the app's tutor harness must do better
-([harness-spec.md](harness-spec.md)).
+what to keep, what went wrong, and what the app's tutor harness had to do better (the app was dropped on
+2026-10-25; the rules that matter now are in [Tutor.md](Tutor.md)).
 
 ## Scores
 

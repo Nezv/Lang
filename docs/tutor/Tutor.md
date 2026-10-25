@@ -1,7 +1,6 @@
 # Tutor
 
-How the chat tutor works and where the learner stands in each language. The `/tutor` skill follows this file. What
-works here moves into the app's tutor: [harness-spec.md](harness-spec.md).
+How the chat tutor works and where the learner stands in each language. The `/tutor` skill follows this file.
 
 ## Files
 

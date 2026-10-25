@@ -14,6 +14,3 @@ Everything the tutor needs is in `docs/tutor/`:
 - `conversations/`: one file per session.
 
 Language: "Japanese", "日本語" or `/tutor ja` means Japanese; anything else means Chinese. Don't ask.
-
-This skill is also the working prototype of the app's tutor harness (`docs/tutor/harness-spec.md`): rules proven here
-move into the app's system prompt.
