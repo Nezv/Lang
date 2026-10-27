@@ -44,6 +44,12 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌿 | 需要 | xūyào | to need, to take (time) | 2026-10-23 | Right; 要 is more common for time |
 | 🌿 | 结束 | jiéshù | to end | 2026-10-23 | Wrote 结束后 (以后 is more common) |
 | 🌿 | 近 | jìn | near, close | 2026-10-23 | Anki; typed 原 for 远 |
+| 🌿 | 远 | yuǎn | far | 2026-10-23, 2026-10-27 | Anki L56; typed 原 three times (多原 for 多远); "far from" needs 离 |
+| 🌿 | 实习 | shíxí | internship | 2026-10-21, 2026-10-23, 2026-10-27 | Wrote "internship" twice; wrote 实习 on 2026-10-27, after my question used it |
+| 🌿 | 漂亮 | piàoliang | beautiful | 2026-10-27 | The learner's own word; 很漂亮的城市 needs 的 |
+| 🌿 | 提问 | tíwèn | to ask a question | 2026-10-27 | The learner's own word; 问一个问题 is more everyday |
+| 🌿 | 乘 | chéng | to ride, take (transport) | 2026-10-27 | The learner's own word; formal, 坐 is everyday |
+| 🌿 | 坐过 | zuò guo | have taken, have ridden | 2026-10-27 | 我没坐过飞机, from my frame; typed 做 for 坐 once |
 | 🌿 | 模组 | mózǔ | mods | 2026-10-21, 2026-10-23 | Wrote "mods", then "mod"; typed it right after the tutor gave it on 2026-10-23 |
 | 🌿 | 模型 | móxíng | (3D) model | 2026-10-21, 2026-10-23 | Wrote "3D models" first; used 3D模型 on 2026-10-23, copied from the tutor's question |
 | 🌿 | 可以 | kěyǐ | can | 2026-10-23 | Anki L31; typed 可谓 |
@@ -63,7 +69,6 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌱 | 女孩 | nǚhái | girl | 2026-10-16 | Wrote 女士 |
 | 🌱 | 动漫 | dòngmàn | anime | 2026-10-16 | Wrote "anime" |
 | 🌱 | 还 | hái | still | 2026-10-21 | Anki L15; wrote "still" |
-| 🌱 | 实习 | shíxí | internship | 2026-10-21, 2026-10-23 | Wrote "internship" both times |
 | 🌱 | 有没有 | yǒu méiyǒu | whether (there is) | 2026-10-21 | 不知道…有没有意思 |
 | 🌱 | 还可以 | hái kěyǐ | OK, not bad | 2026-10-21 | Anki L47; wrote "OK" |
 | 🌱 | 饭店 | fàndiàn | restaurant | 2026-10-21 | Anki L67; wrote "restaurant" |
@@ -85,6 +90,12 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌱 | 吃午饭的时候 | chī wǔfàn de shíhou | at lunchtime | 2026-10-23 | Wrote "lunchtime" (built from Anki L17 and L67 words) |
 | 🌱 | 只是 | zhǐshì | just, only | 2026-10-23 | In a correction: 我只是问Claude (Anki L21 has 只) |
 | 🌱 | 等等 | děngděng | etc., and so on | 2026-10-23 | Anki L69; taught on request (written; spoken is 之类的) |
+| 🌱 | 欧洲 | Ōuzhōu | Europe | 2026-10-27 | Wrote "EU" |
+| 🌱 | 不一定 | bù yídìng | not necessarily | 2026-10-27 | Wrote "don't always" (Anki L37 has 一定) |
+| 🌱 | 原因 | yuányīn | reason | 2026-10-27 | Wrote "reasons" |
+| 🌱 | 多远 | duō yuǎn | how far | 2026-10-27 | Typed 多原 (and 痘院, which I misread) |
+| 🌱 | 离 | lí | from (distance) | 2026-10-27 | Anki L56; in a correction: 离公司很远 |
+| 🌱 | 高铁 | gāotiě | high-speed train | 2026-10-27 | Given in my answer about trains from Qingdao |
 
 ## Japanese
 

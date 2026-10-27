@@ -61,8 +61,10 @@ Rules:
 - At most one new grammar pattern per session, and only when the learner asks or keeps missing it. Reuse it afterwards.
 - At most one question per turn. No "why" sections. If something must be explained, one line of English inside a 💬
   row.
-- Never ask for something the learner has already told you, in this session or in `Memory.md`. Build on it instead,
-  preferring topics not covered yet.
+- Never ask for something the learner has already told you, in this session or in `Memory.md`. Check `Memory.md`
+  before every question, not only the opening one. Build on it instead, preferring topics not covered yet. Switching
+  topics mid-conversation is fine, as people do; asking what's already known is not.
+- Don't put 因为 (or "because") in every 💡 frame: people don't always have reasons.
 - English words in the learner's message are gaps. Give the Chinese or Japanese in the ✔️ row, don't build a lesson
   on it, and collect it for `Vocab.md`. Skip specific words that only the tutor's own question forced (dinosaurs,
   items): the learner isn't learning those.
@@ -108,26 +110,26 @@ Typing slips come from the pinyin keyboard: same or similar pinyin (查/茶).
 ### Error patterns (most frequent first)
 
 1. Wrong character from the pinyin keyboard: 查/茶, 并/冰, 旺季/忘记, 白/百, 日月/日语, 香曲/想去(?), 快/钱,
-   挺/听, 帮衬 and 比昂辰 for 编程, 原/远, 可谓/可以, 多/都(?); in the diaries 相去/想去, 在/再. When a sentence is
-   unclear, try the pinyin first.
-2. Switches to English for unknown words (still, OK, restaurant, internship, mod, anytime): give the Chinese, no
+   挺/听, 帮衬 and 比昂辰 for 编程, 原/远 (three times), 可谓/可以, 多/都(?), 主/住, 神怎/深圳, 做/坐, 群岛/青岛,
+   他/她, 痘院 and 多原 for 多远; in the diaries 相去/想去, 在/再. When a sentence is unclear, try the pinyin first.
+2. Switches to English for unknown words (still, OK, restaurant, internship, mod, anytime, EU): give the Chinese, no
    lesson. Words only my own specific question forced (dinosaurs, items) are not the learner's gaps.
-3. Word order of time, place and companion phrases: 在…的时候, 和…一起, 带…到, 上班的时候在公交车上学习
+3. Word order of time, place and companion phrases: 在…的时候, 和…一起, 带…到, 上班的时候在公交车上学习; place
+   after the verb without 在 (我想工作Nidec, 住群岛); dates (开始了1月2026年 → 2026年1月开始); 在 dropped as the
+   main verb (我不我的城市)
 4. Quantity after the verb: 喝很多咖啡, 买很多东西; a measure word after a number: 四十dinosaurs模型 (四十个…)
 5. 二 vs 两; 和 between every list item (…模型和…模型和…, again on 2026-10-23); 还是 in statements
 6. Word choice: 好吃/好喝, 记得/觉得, 做 as a filler verb; 想了 for "wanted"; 玩 for 做 (a mod); 电话 for 手机;
    他 for an animal (它); 就像那样 for "and so on" (之类的, 等等)
-7. Missing 很 before adjectives; 的 after 自己; 的 chains (我的电话的用Claude); 不真的 for 不是真的
+7. Missing 很 before adjectives; 的 after 自己; 的 chains (我的电话的用Claude); 不真的 for 不是真的; missing 是
+   and 的 (都很漂亮城市)
 8. 的 after a bare time word (十一点的); 和 joining two clauses
 9. Word for word from English: 我一般他不看, 做东西不在, 买机子的家; a measure phrase without a verb (下班也九十分钟);
    哥哥/弟弟
 
 ### Next session opens with
 
-你的实习什么时候结束?(Nǐ de shíxí shénme shíhou jiéshù?) When does your internship end?
-
-Then, because the learner asked for a 之类的/等等/就像那样 session and hasn't answered yet: 你在家一般做什么?(Nǐ zài
-jiā yìbān zuò shénme?) What do you usually do at home? Frame: 我在家……、……、……之类的。
+她坐过飞机吗?(Tā zuò guo fēijī ma?) Has she (the girlfriend) ever flown? Frame: 她坐过……/ 她也没坐过飞机。
 
 ## Japanese
 

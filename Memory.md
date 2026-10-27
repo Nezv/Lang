@@ -25,8 +25,11 @@ each session.
 
 ### Study and work
 
-- University student; does an internship at Nidec, started around late July 2026. In August went from 6 to 8 hours a
-  day; works at a computer in the office.
+- University student; does an internship at Nidec. Said on 2026-10-27 that it started in January 2026 and ends in
+  June 2027 (about eight months left). In August went from 6 to 8 hours a day; works at a computer in the office.
+- Doesn't know yet whether to stay at Nidec after the internship. Would like to work at Nidec Aerospace, but it isn't
+  in their city; Nidec's office in China, in Qingdao, would be good too. Doesn't like living far from work, so in
+  China would live in Qingdao.
 - In August wrote that the job is a bit hard and tiring but teaches something every day, and that the colleagues are
   already good friends who chat a lot; on 2026-10-21 called the colleagues "OK". Eats lunch with them at 11:00 in the
   company restaurant.
@@ -74,6 +77,8 @@ each session.
 - Has only had Japanese food in Brazil; doesn't eat Brazilian yakisoba much.
 - Didn't plan to learn Chinese at first, then came to like China too. Wants to go, but it's too expensive for now
   (diary, 2026-08).
+- Has never been on a plane. Would most like to fly to China, Japan or Europe, with no particular reason ("people
+  don't always have reasons"). Wants to see both Beijing and Shanghai. Would go to China with their girlfriend.
 
 ## Topics covered
 
@@ -85,8 +90,9 @@ each session.
 | 2026-10-22 | Japanese | Going to Japan (asked again: already answered on 2026-10-21), Tokyo, Japanese food, burgers, Monster, bedtimes, Mobile Legends |
 | 2026-10-23 | Chinese | Family, younger brother, living with mum, 90-minute bus commute, buying a house near the office |
 | 2026-10-23 | Chinese | The Minecraft mod and its 3D models, favourite dinosaur, Claude on the phone any time and from a distance, 之类的/等等/就像那样 (on request) |
+| 2026-10-27 | Chinese | When the internship ends, Nidec Aerospace and Nidec in Qingdao, travel from Qingdao, never flown, going to China with the girlfriend; asked what they do at home (already in this file: a mistake) |
 
 ## Topic ideas (not covered yet)
 
-Home town, what they study at university, favourite anime or series, cooking besides burgers, when the internship
-ends, what they do at home (asked on 2026-10-23, not answered yet), a Chinese name, how the trip to Cabo Frio went.
+Home town, what they study at university, favourite anime or series, cooking besides burgers, a Chinese name, how the
+trip to Cabo Frio went, whether the girlfriend has flown.
