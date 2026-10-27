@@ -58,7 +58,7 @@ each session.
   of money (diary, 2026-09).
 - Visited her in October 2026: after work on a Friday, a bus to Volta Redonda, then to Rio de Janeiro, then another
   to Cabo Frio (diary, 2026-10-13).
-- Plays MLBB (Mobile Legends) with her almost every day.
+- Plays MLBB (Mobile Legends) with her almost every day. Favourite hero: Beatrix (ビアトリクス).
 
 ### Free time
 
@@ -71,7 +71,11 @@ each session.
 ### Japan and China
 
 - Studied Japanese for many years at school, self-taught (they only ever had an English teacher), and stopped at
-  university. Wanted to go to Japan back then (anime; wanted to study at a Japanese university).
+  university. Wanted to go to Japan back then and to live there. The reason is not anime (they found that guess
+  offensive): they have liked Japanese history, architecture and universities since long ago. Wanted to study at
+  Kyushu University (九大).
+- Now wants to live and work in Shenzhen instead, a big city that looks like cyberpunk (2026-10-26).
+- Is about to finish university in Brazil (2026-10-26; unclear whether done or nearly done).
 - Still likes Japan, but has no money to go now. Wants to learn both Japanese and Chinese.
 - In Tokyo, would eat anything at the first place they walk into, have drinks and walk around town.
 - Has only had Japanese food in Brazil; doesn't eat Brazilian yakisoba much.
@@ -91,8 +95,9 @@ each session.
 | 2026-10-23 | Chinese | Family, younger brother, living with mum, 90-minute bus commute, buying a house near the office |
 | 2026-10-23 | Chinese | The Minecraft mod and its 3D models, favourite dinosaur, Claude on the phone any time and from a distance, 之类的/等等/就像那样 (on request) |
 | 2026-10-27 | Chinese | When the internship ends, Nidec Aerospace and Nidec in Qingdao, travel from Qingdao, never flown, going to China with the girlfriend; asked what they do at home (already in this file: a mistake) |
+| 2026-10-26 | Japanese | Favourite MLBB hero (Beatrix), why Japan (history, architecture, universities; not anime), Kyushu University, wanting to live in Japan then and Shenzhen now, graduating soon |
 
 ## Topic ideas (not covered yet)
 
-Home town, what they study at university, favourite anime or series, cooking besides burgers, a Chinese name, how the
+Home town, what they study at university (graduating soon), whether they will work in China after graduating, favourite anime or series, cooking besides burgers, a Chinese name, how the
 trip to Cabo Frio went, whether the girlfriend has flown.

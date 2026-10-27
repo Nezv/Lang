@@ -115,3 +115,14 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌱 | とにかく | tonikaku | anyway | 2026-10-22 | Wrote ともかく (also right, less common) |
 | 🌱 | ハンバーガー | hanbāgā | burger | 2026-10-22 | Wrote ハンバーグ (a hamburg steak) |
 | 🌱 | 日本料理 | Nihon ryōri | Japanese food | 2026-10-22 | In a correction |
+| 🌿 | 昔 | mukashi | long ago | 2026-10-26 | Typed 昔で (から) |
+| 🌿 | 働く | hataraku | to work | 2026-10-26 | I gave it; the learner wrote 働きたい |
+| 🌿 | 住む | sumu | to live (somewhere) | 2026-10-26 | Wrote 生きたい first; then 住みたくない, 住みたかった |
+| 🌱 | 失礼 | shitsurei | rude, offensive | 2026-10-26 | Wrote "offensive" |
+| 🌱 | 歴史 | rekishi | history | 2026-10-26 | Wrote "history" |
+| 🌱 | 建築 | kenchiku | architecture | 2026-10-26 | Wrote "architecture" |
+| 🌱 | サイバーパンク | saibāpanku | cyberpunk | 2026-10-26 | Wrote "cyberpunk" |
+| 🌱 | に見えます | ni miemasu | looks like | 2026-10-26 | Wrote と見ています |
+| 🌱 | 深圳 | Shinsen | Shenzhen | 2026-10-26 | Wrote "Shenzhen"; typed 新鮮 |
+| 🌱 | 都市 | toshi | city | 2026-10-26 | Wrote 大きな場所 |
+| 🌱 | 卒業 | sotsugyō | graduation | 2026-10-26 | Wrote 大学終わった |

@@ -135,14 +135,16 @@ Typing slips come from the pinyin keyboard: same or similar pinyin (查/茶).
 
 ### Level
 
-High A1, close to A2, assessed on 2026-10-23 from one session (2026-10-22), so less certain.
+High A1, close to A2, assessed on 2026-10-23 and confirmed on 2026-10-26 from two sessions (2026-10-22,
+2026-10-26).
 
 - Exam scale: JLPT N5; tries N4 grammar.
 - Course: none now. Studied for years at school, self-taught.
 - Can do: answers every question on personal topics; ために, potential form (寝られます), と思います, casual speech
   (分かんない, じゃないよ), counters (二本, 二回).
-- Holds back: mixed-up forms (書けたです, 遅くじゃない), particles, some word choices; only 3 English words in the
-  session.
+- Also: reasons with から, contrast (昔は…今は…), 〜たい / 〜たかった, 〜たあと.
+- Holds back: mixed-up forms (書けたです, 遅くじゃない, 好きなた), dropped particles, some word choices; 3 English words
+  on 2026-10-22, about 8 on 2026-10-26 (several from habit, such as 大学).
 - Next step to A2: control the forms already tried: plain vs polite, い-adjective negatives.
 
 In each cell: Japanese (kanji for common words, kana otherwise); romaji with macrons (Tōkyō); English. Known words:
@@ -155,11 +157,17 @@ sound rude (君).
 ### Error patterns (most frequent first)
 
 1. Wrong kanji from the keyboard: 人本二/日本に, 尾/を, 浸かります/作ります, 見ます/飲みます. When a sentence is
-   unclear, read it in kana first.
-2. Mixing forms: 書けたです, 作りますのか, 遅くじゃない, 観ているのために
-3. Particles: 市で歩く (を), 二本に飲みます, 私と彼女をゲームをして
-4. Word choice: ある/行く, 信じる/思う, 自分で/一人で, ハンバーグ/ハンバーガー, 午後12時 for midnight
+   unclear, read it in kana first. Also ビアつりキス, 深圳/新鮮, に/二.
+2. Mixing forms: 書けたです, 作りますのか, 遅くじゃない, 観ているのために, 好きなた; ので and から together
+   (勉強したので…生きたいから)
+3. Particles: 市で歩く (を), 二本に飲みます, 私と彼女をゲームをして; dropped で and を (日本の大学勉強した,
+   大学終わった); 昔で (から)
+4. Word choice: ある/行く, 信じる/思う, 自分で/一人で, ハンバーグ/ハンバーガー, 午後12時 for midnight,
+   生きる/住む, 大きな場所/都市, と見ています (に見えます), 終わる/卒業
 
 ### Next session opens with
 
-一番好きなヒーローはだれですか。(Ichiban suki na hīrō wa dare desu ka.) Who's your favourite hero?
+卒業したあと、すぐ中国で働きたいですか。(Sotsugyō shita ato, sugu Chūgoku de hatarakitai desu ka.) After graduating,
+do you want to work in China right away?
+
+Don't flag ですよね in conversation: it is natural. Don't guess the learner's reasons (anime was wrong).
