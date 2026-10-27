@@ -46,22 +46,22 @@ first. Statuses from the sessions of 2026-10-16 to 2026-10-27.
 | 🌿 | 虽然…但是 | 虽然夏天很热,但是… | 2026-10-16 | |
 | 🌿 | 一边…一边 | 我一边工作,一边喝咖啡。 | 2026-10-16 | |
 | 🌿 | 越来越 | 我听音乐越来越少了。 | 2026-10-21 | The learner's own |
-| 🌿 | 过 (have ever) | 我没坐过飞机。 | 2026-10-27 | From the frame |
+| 🌿 | 过 (have ever) | 我没坐过飞机。 | 2026-10-27, 2026-10-27 (2) | From the frame both times (我没见过雪) |
+| 🌿 | 呢 (你呢? and "what about…?") | 我喜欢茶,你呢? | 2026-10-27 (2) | Wrote 深圳呢? after seeing 北京呢 in my frames |
 | 🌱 | 二 vs 两 | 两百克 | 2026-10-16 | |
 | 🌱 | 和 only between nouns; lists with 、 | 面包、牛肉和芝士 | 2026-10-16, 2026-10-21, 2026-10-23 | Keeps putting 和 between every item |
 | 🌱 | 还是 (or, in questions) vs 和 | 你喜欢热的还是冰的? | 2026-10-16 | |
-| 🌱 | Dates and clock times | 2026年1月, 早上五点 | 2026-10-23, 2026-10-27 | Year before month |
+| 🌱 | Dates and clock times | 2026年1月, 早上五点 | 2026-10-23, 2026-10-27, 2026-10-27 (2) | Year before month; wrote 早的6点 (早上六点) and 早的12点 (中午十二点) |
 | 🌱 | 从…到 | 从早上五点到晚上七点 | 2026-10-23 | |
 | 🌱 | 离 + 远 / 近 | 公司离我家很远。 | 2026-10-27 | |
 | 🌱 | 多 + adjective (how far, how old) | 一个小时能去多远? | 2026-10-27 | |
-| 🌱 | 太…了 | 太远了。 | 2026-10-23 | |
+| 🌱 | 太…了 | 太远了。 | 2026-10-23, 2026-10-27 (2) | Wrote 太热 without 了 |
 | 🌱 | 有点 vs 一点 | 牛奶有点贵。 | 2026-10-16 | |
 | 🌱 | 已经…了 | 我们已经聊过了。 | 2026-10-21 | |
 | 🌱 | 还 / 还没 (still, not yet) | 我还没吃饭。 | 2026-10-21 | |
 | 🌱 | 跟…一样 | 和学日语一样 | 2026-10-16 | |
 | 🌱 | Result complements (看见, 听懂, 看不见) | 我一般看不见他。 | 2026-10-23 | |
 | 🌱 | 不要 (don't) | 不要问两个。 | 2026-10-16 | |
-| | 呢 (你呢? and "what about…?") | 我喜欢茶,你呢? | | Lets the learner ask back |
 | | 吧 (suggestion, guess) | 我们去吧。 | | |
 | | 比 comparisons | 火车比飞机便宜。 | | |
 | | 怎么 / 怎么样 | 你怎么去公司?周末怎么样? | | |

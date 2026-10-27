@@ -32,7 +32,6 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌿 | 带 | dài | to bring | 2026-10-16 | Word order: 带…到… |
 | 🌿 | 冰 | bīng | ice, iced | 2026-10-16 | Typed 并 |
 | 🌿 | 忘记 | wàngjì | to forget | 2026-10-16 | Typed 旺季 |
-| 🌿 | 夏天 | xiàtiān | summer | 2026-10-16 | |
 | 🌿 | 克 | kè | gram | 2026-10-16 | Wrote "grams" first |
 | 🌿 | 面包 | miànbāo | bread, bun | 2026-10-16 | |
 | 🌿 | 牛肉 | niúròu | beef | 2026-10-16 | |
@@ -55,6 +54,14 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌿 | 可以 | kěyǐ | can | 2026-10-23 | Anki L31; typed 可谓 |
 | 🌿 | 真的 | zhēn de | really | 2026-10-23 | Wrote 我不真的编程; it needs 是: 不是真的 |
 | 🌿 | 就像那样 | jiù xiàng nàyàng | just like that | 2026-10-23 | Wrote it for "and so on"; that is 之类的 or 等等 |
+| 🌿 | 冷 | lěng | cold | 2026-10-27 | Anki L72; brought in as an unseen word; 很冷, 最冷 |
+| 🌿 | 下雨 | xiàyǔ | to rain | 2026-10-27 | Anki L71; brought in as an unseen word; wrote 都有时候下雨 (有时候也下雨) |
+| 🌿 | 度 | dù | degrees | 2026-10-27 | Wrote 一十三°C first, then 6度, 16度 |
+| 🌿 | 冬天 | dōngtiān | winter | 2026-10-27 | From my frames |
+| 🌿 | 雪 | xuě | snow | 2026-10-27 | 我没见过雪, from the frame |
+| 🌿 | 见过 | jiànguo | have seen | 2026-10-27 | 我没见过雪, from the frame |
+| 🌿 | 左右 | zuǒyòu | about, roughly | 2026-10-27 | Given by me, then 六十天左右 |
+| 🌿 | 挺 | tǐng | quite, pretty | 2026-10-27 | Anki L57; typed 听很好 for 挺好 |
 | 🌱 | 连词 | liáncí | conjunction | 2026-10-16 | Wrote "connective particles" |
 | 🌱 | 有点 | yǒudiǎn | a bit | 2026-10-16 | Anki L44; wrote 少贵 for 有点贵 |
 | 🌱 | 毫升 | háoshēng | millilitre | 2026-10-16 | Wrote "ml" |
@@ -96,6 +103,24 @@ A word drops back to 🌱 when the learner needs it given again.
 | 🌱 | 多远 | duō yuǎn | how far | 2026-10-27 | Typed 多原 (and 痘院, which I misread) |
 | 🌱 | 离 | lí | from (distance) | 2026-10-27 | Anki L56; in a correction: 离公司很远 |
 | 🌱 | 高铁 | gāotiě | high-speed train | 2026-10-27 | Given in my answer about trains from Qingdao |
+| 🌱 | 夏天 | xiàtiān | summer | 2026-10-16, 2026-10-27 | Was 🌿; wrote "summer" on 2026-10-27 |
+| 🌱 | 天气 | tiānqì | weather | 2026-10-27 | Anki L71; brought in as an unseen word, not written yet |
+| 🌱 | 春天 | chūntiān | spring | 2026-10-27 | Given in my rows |
+| 🌱 | 秋天 | qiūtiān | autumn | 2026-10-27 | Given in my rows |
+| 🌱 | 零下 | língxià | below zero | 2026-10-27 | Given in my rows |
+| 🌱 | 舒服 | shūfu | comfortable | 2026-10-27 | Given in my rows |
+| 🌱 | 几乎 | jīhū | almost | 2026-10-27 | Asked what it means (几乎不 = almost never) |
+| 🌱 | 同意 | tóngyì | to agree | 2026-10-27 | Wrote "agree" |
+| 🌱 | 听起来 | tīng qǐlai | sounds (good) | 2026-10-27 | Wrote "sounds" |
+| 🌱 | 穿 | chuān | to wear | 2026-10-27 | Wrote "use" (winter clothes) |
+| 🌱 | 衣服 | yīfu | clothes | 2026-10-27 | Wrote "winter clothes" (冬天的衣服) |
+| 🌱 | 早上 | zǎoshang | morning | 2026-10-27 | Anki L35; wrote 早的 |
+| 🌱 | 中午 | zhōngwǔ | noon | 2026-10-27 | Anki L67; wrote 早的12点 for 12 noon |
+| 🌱 | 多少 | duōshao | how many | 2026-10-27 | Anki L21; wrote 多什么 (多少度) |
+| 🌱 | 是什么意思 | shì shénme yìsi | what does it mean | 2026-10-27 | Anki L47 has 意思; wrote 有意思多什么 |
+| 🌱 | 上面 | shàngmiàn | on, on top | 2026-10-27 | Anki L76; wrote 书面 (这上面写的是什么?) |
+| 🌱 | 圆珠笔 | yuánzhūbǐ | ballpoint pen | 2026-10-27 | Asked about a photo of a pen; 笔 bǐ = pen |
+| 🌱 | 圣诞节 | Shèngdàn jié | Christmas | 2026-10-27 | Given in my rows |
 
 ## Japanese
 

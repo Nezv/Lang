@@ -68,13 +68,20 @@ each session.
   dinosaur: the velociraptor, "a classic".
 - Weekends: films and games (diary, 2026-09).
 
+### Weather
+
+- Their city on 2026-10-27: 13 °C at 6 am, 20 °C at noon; it sometimes rains. The coldest winter days are about 6 °C.
+- Likes cold weather; 16 °C is their favourite temperature. Likes the idea of wearing winter clothes.
+- Has never seen snow.
+
 ### Japan and China
 
 - Studied Japanese for many years at school, self-taught (they only ever had an English teacher), and stopped at
   university. Wanted to go to Japan back then and to live there. The reason is not anime (they found that guess
   offensive): they have liked Japanese history, architecture and universities since long ago. Wanted to study at
   Kyushu University (九大).
-- Now wants to live and work in Shenzhen instead, a big city that looks like cyberpunk (2026-10-26).
+- Now wants to live and work in Shenzhen instead, a big city that looks like cyberpunk (2026-10-26). Changed their
+  mind on 2026-10-27: Shenzhen's summers are as hot as Brazil's, so now thinks living in Beijing would be pretty good.
 - Is about to finish university in Brazil (2026-10-26; unclear whether done or nearly done).
 - Still likes Japan, but has no money to go now. Wants to learn both Japanese and Chinese.
 - In Tokyo, would eat anything at the first place they walk into, have drinks and walk around town.
@@ -95,6 +102,7 @@ each session.
 | 2026-10-23 | Chinese | Family, younger brother, living with mum, 90-minute bus commute, buying a house near the office |
 | 2026-10-23 | Chinese | The Minecraft mod and its 3D models, favourite dinosaur, Claude on the phone any time and from a distance, 之类的/等等/就像那样 (on request) |
 | 2026-10-27 | Chinese | When the internship ends, Nidec Aerospace and Nidec in Qingdao, travel from Qingdao, never flown, going to China with the girlfriend; asked what they do at home (already in this file: a mistake) |
+| 2026-10-27 | Chinese | Weather now in their city, coldest winter day, favourite temperature, never seen snow, Harbin's snow and ice festival, Shenzhen's and Beijing's weather and seasons (no longer wants Shenzhen), days until summer, Christmas in summer, a 10-colour pen and barcodes |
 | 2026-10-26 | Japanese | Favourite MLBB hero (Beatrix), why Japan (history, architecture, universities; not anime), Kyushu University, wanting to live in Japan then and Shenzhen now, graduating soon |
 
 ## Topic ideas (not covered yet)
@@ -102,5 +110,7 @@ each session.
 General topics, not follow-up questions from old sessions: each session opens fresh (see `Tutor.md`).
 
 Home town, what they study at university (graduating soon), favourite anime or series, cooking besides burgers, a
-Chinese name, the weather and seasons where they live, festivals and holidays (Christmas is close), shopping,
-clothes, sport and health, friends from school, a normal weekend day hour by hour, the girlfriend's life and work.
+Chinese name, festivals and holidays (Christmas is close), shopping, clothes, sport and health, friends from school,
+a normal weekend day hour by hour, the girlfriend's life and work, things on their desk or in their bag.
+
+Weather and seasons are covered: bring the words back with a quick quiz question, not a new weather conversation.

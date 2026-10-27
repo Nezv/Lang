@@ -79,6 +79,9 @@ Rules:
   Japanese.
 - Work 1–2 words into each turn's 💬 or 💡 rows: the session's unseen words first, then the words to recycle (see the
   language's section). Don't announce it.
+- Now and then, bring back words from an old topic with one quick quiz question instead of a whole conversation on
+  it: 离夏天还有多少天? recalls 春天, 夏天, 秋天, 冬天 without talking about the weather again (the learner's idea,
+  2026-10-27). One question, then back to the conversation.
 - The session's grammar point: show it in a 💬 example early and put it in the 💡 frames until the learner writes it,
   then reuse it now and then. If it needs explaining, one line of English inside a 💬 row. If the learner asks for a
   different point, that one becomes the session's point. No other new grammar.
@@ -134,16 +137,19 @@ Typing slips come from the pinyin keyboard: same or similar pinyin (查/茶).
 
 1. Wrong character from the pinyin keyboard: 查/茶, 并/冰, 旺季/忘记, 白/百, 日月/日语, 香曲/想去(?), 快/钱,
    挺/听, 帮衬 and 比昂辰 for 编程, 原/远 (three times), 可谓/可以, 多/都(?), 主/住, 神怎/深圳, 做/坐, 群岛/青岛,
-   他/她, 痘院 and 多原 for 多远; in the diaries 相去/想去, 在/再. When a sentence is unclear, try the pinyin first.
-2. Switches to English for unknown words (still, OK, restaurant, internship, mod, anytime, EU): give the Chinese, no
-   lesson. Words only my own specific question forced (dinosaurs, items) are not the learner's gaps.
+   他/她, 痘院 and 多原 for 多远, 无毒 for 五度, 主/住 and 听/挺 again; in the diaries 相去/想去, 在/再. When a
+   sentence is unclear, try the pinyin first.
+2. Switches to English for unknown words (still, OK, restaurant, internship, mod, anytime, EU, summer, agree,
+   sounds): give the Chinese, no lesson. Words only my own specific question forced (dinosaurs, items) are not the
+   learner's gaps.
 3. Word order of time, place and companion phrases: 在…的时候, 和…一起, 带…到, 上班的时候在公交车上学习; place
-   after the verb without 在 (我想工作Nidec, 住群岛); dates (开始了1月2026年 → 2026年1月开始); 在 dropped as the
-   main verb (我不我的城市)
+   after the verb without 在 (我想工作Nidec, 住群岛, 在主深圳 for 住在深圳); dates (开始了1月2026年 → 2026年1月开始);
+   在 dropped as the main verb (我不我的城市); times of day (早的6点 → 早上六点, 中午 for noon)
 4. Quantity after the verb: 喝很多咖啡, 买很多东西; a measure word after a number: 四十dinosaurs模型 (四十个…)
-5. 二 vs 两; 和 between every list item (…模型和…模型和…, again on 2026-10-23); 还是 in statements
+5. 二 vs 两; 一十三 for 十三; 和 between every list item (…模型和…模型和…, again on 2026-10-23); 还是 in statements
 6. Word choice: 好吃/好喝, 记得/觉得, 做 as a filler verb; 想了 for "wanted"; 玩 for 做 (a mod); 电话 for 手机;
-   他 for an animal (它); 就像那样 for "and so on" (之类的, 等等)
+   他 for an animal (它); 就像那样 for "and so on" (之类的, 等等); 都 for 也; 多什么 for 多少 and for 是什么意思
+   (twice on 2026-10-27)
 7. Missing 很 before adjectives; 的 after 自己; 的 chains (我的电话的用Claude); 不真的 for 不是真的; missing 是
    and 的 (都很漂亮城市)
 8. 的 after a bare time word (十一点的); 和 joining two clauses
