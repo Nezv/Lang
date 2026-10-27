@@ -99,5 +99,8 @@ each session.
 
 ## Topic ideas (not covered yet)
 
-Home town, what they study at university (graduating soon), whether they will work in China after graduating, favourite anime or series, cooking besides burgers, a Chinese name, how the
-trip to Cabo Frio went, whether the girlfriend has flown.
+General topics, not follow-up questions from old sessions: each session opens fresh (see `Tutor.md`).
+
+Home town, what they study at university (graduating soon), favourite anime or series, cooking besides burgers, a
+Chinese name, the weather and seasons where they live, festivals and holidays (Christmas is close), shopping,
+clothes, sport and health, friends from school, a normal weekend day hour by hour, the girlfriend's life and work.
